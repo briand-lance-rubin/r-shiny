@@ -1,0 +1,445 @@
+country,iso2,g_whoregion,year,report_frequency,report_coverage,m_01
+Albania,AL,EUR,2020,71,34,
+Albania,AL,EUR,2021,70,34,17
+Albania,AL,EUR,2022,70,34,17
+Albania,AL,EUR,2023,70,34,27
+Andorra,AD,EUR,2020,70,34,0
+Andorra,AD,EUR,2021,70,34,0
+Andorra,AD,EUR,2022,71,34,
+Andorra,AD,EUR,2023,71,,
+Angola,AO,AFR,2020,71,35,
+Angola,AO,AFR,2021,71,35,
+Angola,AO,AFR,2022,71,35,
+Angola,AO,AFR,2023,71,35,
+Antigua and Barbuda,AG,AMR,2020,71,34,
+Antigua and Barbuda,AG,AMR,2021,71,34,
+Antigua and Barbuda,AG,AMR,2022,71,34,
+Antigua and Barbuda,AG,AMR,2023,71,34,
+Argentina,AR,AMR,2020,70,34,1215
+Argentina,AR,AMR,2021,70,34,926
+Argentina,AR,AMR,2022,70,34,798
+Argentina,AR,AMR,2023,70,34,1365
+Armenia,AM,EUR,2020,70,34,45
+Armenia,AM,EUR,2021,70,34,20
+Armenia,AM,EUR,2022,70,34,41
+Armenia,AM,EUR,2023,70,34,26
+Aruba,AW,AMR,2021,70,34,0
+Aruba,AW,AMR,2022,70,34,0
+Aruba,AW,AMR,2023,71,34,
+Azerbaijan,AZ,EUR,2020,70,,359
+Azerbaijan,AZ,EUR,2021,70,34,176
+Azerbaijan,AZ,EUR,2022,70,34,288
+Bahamas,BS,AMR,2020,71,34,
+Bahamas,BS,AMR,2021,70,34,2
+Bahamas,BS,AMR,2022,70,34,4
+Bahamas,BS,AMR,2023,71,34,
+Bangladesh,BD,SEA,2020,71,34,
+Bangladesh,BD,SEA,2021,71,34,
+Bangladesh,BD,SEA,2022,71,34,
+Bangladesh,BD,SEA,2023,71,34,
+Barbados,BB,AMR,2022,71,34,
+Belarus,BY,EUR,2020,70,34,195
+Belarus,BY,EUR,2021,70,34,92
+Belarus,BY,EUR,2022,70,34,139
+Belarus,BY,EUR,2023,70,34,130
+Belize,BZ,AMR,2020,70,,7
+Belize,BZ,AMR,2021,70,34,2
+Belize,BZ,AMR,2022,71,34,
+Belize,BZ,AMR,2023,70,34,7
+Benin,BJ,AFR,2021,71,34,
+Benin,BJ,AFR,2022,71,34,
+Bolivia (Plurinational State of),BO,AMR,2020,71,35,
+Bolivia (Plurinational State of),BO,AMR,2021,71,34,
+Bolivia (Plurinational State of),BO,AMR,2023,71,34,
+Bosnia and Herzegovina,BA,EUR,2023,70,34,22
+Botswana,BW,AFR,2021,71,34,
+Botswana,BW,AFR,2022,70,35,252
+Brazil,BR,AMR,2020,70,34,8359
+Bulgaria,BG,EUR,2020,70,,110
+Burkina Faso,BF,AFR,2021,71,34,
+Burkina Faso,BF,AFR,2022,71,34,
+Burkina Faso,BF,AFR,2023,71,,
+Burundi,BI,AFR,2021,71,34,
+Burundi,BI,AFR,2022,71,,
+Burundi,BI,AFR,2023,71,34,
+Cabo Verde,CV,AFR,2021,71,35,
+Cambodia,KH,WPR,2020,70,,2768
+Cambodia,KH,WPR,2021,70,34,2119
+Cambodia,KH,WPR,2022,70,34,2216
+Cambodia,KH,WPR,2023,70,34,2788
+Cameroon,CM,AFR,2021,71,35,
+Cameroon,CM,AFR,2022,71,35,
+Cameroon,CM,AFR,2023,71,35,
+Central African Republic,CF,AFR,2021,71,35,
+Chad,TD,AFR,2021,71,34,
+Chad,TD,AFR,2022,71,34,
+Chile,CL,AMR,2020,70,34,254
+Chile,CL,AMR,2021,70,34,198
+Chile,CL,AMR,2022,70,34,225
+Chile,CL,AMR,2023,70,34,225
+China,CN,WPR,2020,70,34,47506
+China,CN,WPR,2021,70,34,45492
+China,CN,WPR,2022,70,34,39848
+Colombia,CO,AMR,2020,70,,1108
+Colombia,CO,AMR,2021,70,,702
+Colombia,CO,AMR,2022,70,34,985
+Colombia,CO,AMR,2023,70,34,1365
+Costa Rica,CR,AMR,2020,70,35,36
+Costa Rica,CR,AMR,2021,70,,21
+Costa Rica,CR,AMR,2022,70,34,20
+Costa Rica,CR,AMR,2023,70,35,12
+Côte d'Ivoire,CI,AFR,2021,71,34,
+Côte d'Ivoire,CI,AFR,2022,71,34,
+Côte d'Ivoire,CI,AFR,2023,71,,
+Croatia,HR,EUR,2023,70,34,17
+Cuba,CU,AMR,2020,70,,49
+Cuba,CU,AMR,2021,70,34,32
+Cuba,CU,AMR,2022,70,,41
+Cuba,CU,AMR,2023,70,,34
+Democratic People's Republic of Korea,KP,SEA,2020,71,,
+Democratic People's Republic of Korea,KP,SEA,2021,71,,
+Democratic People's Republic of Korea,KP,SEA,2022,71,,
+Democratic Republic of the Congo,CD,AFR,2020,71,35,
+Democratic Republic of the Congo,CD,AFR,2021,71,34,
+Democratic Republic of the Congo,CD,AFR,2023,71,35,
+Denmark,DK,EUR,2020,70,,19
+Denmark,DK,EUR,2022,70,34,15
+Dominica,DM,AMR,2020,70,,5
+Dominica,DM,AMR,2021,70,,0
+Dominica,DM,AMR,2022,70,34,0
+Dominican Republic,DO,AMR,2020,70,34,327
+Dominican Republic,DO,AMR,2021,70,34,232
+Dominican Republic,DO,AMR,2022,70,34,286
+Dominican Republic,DO,AMR,2023,70,34,390
+Ecuador,EC,AMR,2020,71,34,
+Ecuador,EC,AMR,2021,71,34,
+Ecuador,EC,AMR,2022,71,34,
+Ecuador,EC,AMR,2023,71,34,
+El Salvador,SV,AMR,2020,71,34,
+El Salvador,SV,AMR,2021,70,34,176
+El Salvador,SV,AMR,2022,71,35,
+Equatorial Guinea,GQ,AFR,2021,70,34,155
+Equatorial Guinea,GQ,AFR,2022,70,35,164
+Eritrea,ER,AFR,2021,71,34,
+Estonia,EE,EUR,2020,70,34,12
+Estonia,EE,EUR,2021,70,34,8
+Estonia,EE,EUR,2022,70,34,11
+Estonia,EE,EUR,2023,70,34,9
+Eswatini,SZ,AFR,2021,71,34,
+Eswatini,SZ,AFR,2022,71,34,
+Eswatini,SZ,AFR,2023,71,,
+Ethiopia,ET,AFR,2020,71,35,
+Ethiopia,ET,AFR,2021,71,35,
+Ethiopia,ET,AFR,2022,71,35,
+Ethiopia,ET,AFR,2023,70,35,10193
+Finland,FI,EUR,2020,70,34,19
+Finland,FI,EUR,2021,70,34,21
+Finland,FI,EUR,2022,70,34,16
+Finland,FI,EUR,2023,70,34,6
+France,FR,EUR,2020,70,34,380
+France,FR,EUR,2021,70,34,319
+France,FR,EUR,2022,70,,325
+Gabon,GA,AFR,2021,71,35,
+Gabon,GA,AFR,2022,71,35,
+Gabon,GA,AFR,2023,71,,
+Gambia,GM,AFR,2021,70,35,185
+Gambia,GM,AFR,2022,70,34,172
+Georgia,GE,EUR,2020,70,,162
+Georgia,GE,EUR,2021,70,34,114
+Germany,DE,EUR,2020,70,,403
+Germany,DE,EUR,2021,70,34,303
+Germany,DE,EUR,2022,70,34,262
+Ghana,GH,AFR,2021,70,35,1166
+Ghana,GH,AFR,2022,70,34,1122
+Grenada,GD,AMR,2020,70,34,1
+Grenada,GD,AMR,2021,70,34,1
+Grenada,GD,AMR,2022,71,34,
+Grenada,GD,AMR,2023,70,34,0
+Guatemala,GT,AMR,2020,71,34,
+Guatemala,GT,AMR,2021,71,34,
+Guatemala,GT,AMR,2022,71,34,
+Guatemala,GT,AMR,2023,71,34,
+Guinea,GN,AFR,2021,71,34,
+Guinea,GN,AFR,2022,71,34,
+Guinea-Bissau,GW,AFR,2021,71,35,
+Guinea-Bissau,GW,AFR,2022,71,34,
+Guinea-Bissau,GW,AFR,2023,71,35,
+Guyana,GY,AMR,2020,70,34,53
+Guyana,GY,AMR,2021,70,34,24
+Guyana,GY,AMR,2022,70,34,32
+Guyana,GY,AMR,2023,70,35,31
+Haiti,HT,AMR,2020,71,,
+Honduras,HN,AMR,2020,70,34,220
+Honduras,HN,AMR,2021,70,34,159
+Honduras,HN,AMR,2022,71,34,
+Hungary,HU,EUR,2020,70,,58
+Hungary,HU,EUR,2021,70,34,30
+Hungary,HU,EUR,2022,70,34,40
+Hungary,HU,EUR,2023,70,34,51
+India,IN,SEA,2020,70,,177098
+India,IN,SEA,2021,70,34,164960
+India,IN,SEA,2022,70,34,148883
+India,IN,SEA,2023,70,34,181859
+Indonesia,ID,SEA,2020,70,,43787
+Indonesia,ID,SEA,2021,70,,35053
+Indonesia,ID,SEA,2022,70,,66025
+Indonesia,ID,SEA,2023,70,34,79196
+Ireland,IE,EUR,2020,70,34,22
+Ireland,IE,EUR,2021,70,34,16
+Ireland,IE,EUR,2022,70,34,22
+Ireland,IE,EUR,2023,70,34,10
+Israel,IL,EUR,2020,70,,22
+Israel,IL,EUR,2023,70,,16
+Italy,IT,EUR,2020,70,35,219
+Italy,IT,EUR,2021,70,35,165
+Jamaica,JM,AMR,2020,71,34,
+Jamaica,JM,AMR,2021,70,34,2
+Jamaica,JM,AMR,2022,71,34,
+Jamaica,JM,AMR,2023,71,34,
+Kazakhstan,KZ,EUR,2020,70,34,982
+Kazakhstan,KZ,EUR,2021,70,34,666
+Kazakhstan,KZ,EUR,2022,70,34,657
+Kazakhstan,KZ,EUR,2023,70,34,819
+Kenya,KE,AFR,2020,70,34,7543
+Kenya,KE,AFR,2021,70,34,3675
+Kenya,KE,AFR,2022,70,34,5330
+Kenya,KE,AFR,2023,70,,8561
+Kyrgyzstan,KG,EUR,2020,70,,448
+Kyrgyzstan,KG,EUR,2021,70,34,238
+Kyrgyzstan,KG,EUR,2022,70,,332
+Kyrgyzstan,KG,EUR,2023,70,,296
+Lao People's Democratic Republic,LA,WPR,2020,70,34,664
+Lao People's Democratic Republic,LA,WPR,2021,70,34,553
+Lao People's Democratic Republic,LA,WPR,2022,70,34,438
+Lao People's Democratic Republic,LA,WPR,2023,70,34,732
+Lesotho,LS,AFR,2020,71,34,
+Lesotho,LS,AFR,2021,71,34,
+Lesotho,LS,AFR,2022,71,34,
+Lesotho,LS,AFR,2023,71,34,
+Liberia,LR,AFR,2021,71,,
+Lithuania,LT,EUR,2020,70,,118
+Lithuania,LT,EUR,2021,70,34,54
+Lithuania,LT,EUR,2022,70,34,68
+Lithuania,LT,EUR,2023,70,34,93
+Luxembourg,LU,EUR,2021,70,34,3
+Luxembourg,LU,EUR,2022,70,34,3
+Madagascar,MG,AFR,2021,71,34,
+Madagascar,MG,AFR,2023,70,35,3352
+Malawi,MW,AFR,2021,71,34,
+Malawi,MW,AFR,2022,71,34,
+Malawi,MW,AFR,2023,71,34,
+Malaysia,MY,WPR,2020,70,34,2028
+Malaysia,MY,WPR,2021,70,34,1447
+Malaysia,MY,WPR,2022,70,34,1612
+Malaysia,MY,WPR,2023,70,34,1681
+Mali,ML,AFR,2021,71,35,
+Mali,ML,AFR,2022,71,34,
+Malta,MT,EUR,2020,70,34,7
+Malta,MT,EUR,2021,70,34,5
+Malta,MT,EUR,2022,70,34,10
+Malta,MT,EUR,2023,70,34,3
+Mauritania,MR,AFR,2022,70,35,163
+Mauritius,MU,AFR,2021,70,34,11
+Mauritius,MU,AFR,2022,70,34,14
+Mauritius,MU,AFR,2023,70,34,5
+Mexico,MX,AMR,2020,70,34,2178
+Mexico,MX,AMR,2021,70,34,1283
+Mexico,MX,AMR,2022,70,34,1701
+Mexico,MX,AMR,2023,70,34,2227
+Monaco,MC,EUR,2021,70,34,0
+Monaco,MC,EUR,2022,70,34,0
+Monaco,MC,EUR,2023,71,34,
+Mongolia,MN,WPR,2020,70,34,273
+Mongolia,MN,WPR,2021,70,,212
+Mongolia,MN,WPR,2022,70,34,212
+Mongolia,MN,WPR,2023,70,,250
+Montenegro,ME,EUR,2020,70,34,2
+Montenegro,ME,EUR,2021,70,34,1
+Montenegro,ME,EUR,2022,70,34,8
+Montenegro,ME,EUR,2023,70,34,2
+Mozambique,MZ,AFR,2020,70,34,6113
+Mozambique,MZ,AFR,2021,70,34,6921
+Mozambique,MZ,AFR,2022,70,35,7331
+Mozambique,MZ,AFR,2023,70,,7800
+Myanmar,MM,SEA,2020,71,,
+Myanmar,MM,SEA,2021,71,35,
+Myanmar,MM,SEA,2022,71,35,
+Myanmar,MM,SEA,2023,71,35,
+Namibia,NA,AFR,2020,70,34,698
+Namibia,NA,AFR,2021,70,34,482
+Namibia,NA,AFR,2022,70,34,602
+Namibia,NA,AFR,2023,70,34,741
+Nepal,NP,SEA,2020,70,34,2258
+Nepal,NP,SEA,2021,70,34,2372
+Nepal,NP,SEA,2022,70,34,2947
+Nepal,NP,SEA,2023,70,,2521
+Netherlands (Kingdom of the),NL,EUR,2020,70,34,60
+Netherlands (Kingdom of the),NL,EUR,2021,70,34,44
+Netherlands (Kingdom of the),NL,EUR,2022,70,34,37
+Netherlands (Kingdom of the),NL,EUR,2023,70,34,52
+Nicaragua,NI,AMR,2020,70,34,183
+Nicaragua,NI,AMR,2021,70,34,148
+Nicaragua,NI,AMR,2022,70,34,154
+Nicaragua,NI,AMR,2023,70,34,191
+Niger,NE,AFR,2021,70,34,950
+Niger,NE,AFR,2022,70,34,991
+Niger,NE,AFR,2023,70,34,1152
+Nigeria,NG,AFR,2020,71,34,
+Nigeria,NG,AFR,2021,71,34,
+Nigeria,NG,AFR,2022,71,,
+North Macedonia,MK,EUR,2020,70,,19
+North Macedonia,MK,EUR,2022,70,,9
+North Macedonia,MK,EUR,2023,70,,24
+Norway,NO,EUR,2020,70,,20
+Norway,NO,EUR,2021,70,34,10
+Norway,NO,EUR,2023,70,34,17
+Pakistan,PK,EMR,2020,71,35,
+Pakistan,PK,EMR,2021,71,34,
+Pakistan,PK,EMR,2022,71,34,
+Panama,PA,AMR,2020,70,,153
+Panama,PA,AMR,2021,70,,91
+Panama,PA,AMR,2022,70,34,78
+Papua New Guinea,PG,WPR,2020,71,34,
+Papua New Guinea,PG,WPR,2021,71,35,
+Papua New Guinea,PG,WPR,2022,71,35,
+Papua New Guinea,PG,WPR,2023,71,35,
+Paraguay,PY,AMR,2020,70,34,212
+Paraguay,PY,AMR,2021,70,34,186
+Paraguay,PY,AMR,2022,70,34,286
+Peru,PE,AMR,2020,70,34,2880
+Peru,PE,AMR,2021,70,34,2012
+Peru,PE,AMR,2022,70,34,2059
+Peru,PE,AMR,2023,70,34,2531
+Philippines,PH,WPR,2020,70,35,40104
+Philippines,PH,WPR,2021,70,35,24679
+Philippines,PH,WPR,2022,70,35,29412
+Philippines,PH,WPR,2023,70,35,43550
+Portugal,PT,EUR,2020,70,,152
+Portugal,PT,EUR,2021,70,34,104
+Portugal,PT,EUR,2022,70,,110
+Portugal,PT,EUR,2023,70,,107
+Puerto Rico,PR,AMR,2020,71,34,
+Puerto Rico,PR,AMR,2021,71,34,
+Puerto Rico,PR,AMR,2022,71,,
+Puerto Rico,PR,AMR,2023,71,,
+Republic of Moldova,MD,EUR,2020,70,34,221
+Republic of Moldova,MD,EUR,2021,70,34,123
+Republic of Moldova,MD,EUR,2022,70,34,149
+Republic of Moldova,MD,EUR,2023,70,34,146
+Romania,RO,EUR,2020,71,34,
+Romania,RO,EUR,2021,71,34,
+Romania,RO,EUR,2022,71,34,
+Romania,RO,EUR,2023,71,,
+Russian Federation,RU,EUR,2020,70,34,6540
+Russian Federation,RU,EUR,2021,70,34,3990
+Russian Federation,RU,EUR,2022,70,34,4396
+Russian Federation,RU,EUR,2023,70,34,4439
+Rwanda,RW,AFR,2021,70,34,412
+Saint Kitts and Nevis,KN,AMR,2020,71,34,
+Saint Kitts and Nevis,KN,AMR,2021,71,34,
+Saint Kitts and Nevis,KN,AMR,2022,71,34,
+Saint Lucia,LC,AMR,2020,70,34,1
+Saint Lucia,LC,AMR,2021,70,34,0
+Saint Lucia,LC,AMR,2022,70,34,0
+Saint Lucia,LC,AMR,2023,70,34,0
+Saint Vincent and the Grenadines,VC,AMR,2020,70,34,0
+Saint Vincent and the Grenadines,VC,AMR,2021,70,34,0
+Saint Vincent and the Grenadines,VC,AMR,2022,70,34,1
+Saint Vincent and the Grenadines,VC,AMR,2023,70,34,0
+Sao Tome and Principe,ST,AFR,2021,70,,8
+Sao Tome and Principe,ST,AFR,2022,71,34,
+Sao Tome and Principe,ST,AFR,2023,70,34,12
+Senegal,SN,AFR,2021,71,,
+Serbia,RS,EUR,2020,70,,35
+Serbia,RS,EUR,2023,70,34,32
+Seychelles,SC,AFR,2021,70,34,0
+Seychelles,SC,AFR,2022,70,34,0
+Seychelles,SC,AFR,2023,70,34,1
+Sierra Leone,SL,AFR,2020,70,,1654
+Sierra Leone,SL,AFR,2021,70,34,1109
+Sierra Leone,SL,AFR,2022,71,34,
+Sierra Leone,SL,AFR,2023,71,34,
+Sint Maarten (Dutch part),SX,AMR,2020,70,,0
+Sint Maarten (Dutch part),SX,AMR,2021,71,34,
+Slovakia,SK,EUR,2020,70,,8
+Slovakia,SK,EUR,2021,70,34,4
+Slovakia,SK,EUR,2022,70,34,8
+Slovakia,SK,EUR,2023,70,34,8
+Slovenia,SI,EUR,2020,70,34,10
+Slovenia,SI,EUR,2021,70,34,5
+Slovenia,SI,EUR,2022,70,34,3
+Slovenia,SI,EUR,2023,70,34,6
+Solomon Islands,SB,WPR,2020,70,34,23
+Solomon Islands,SB,WPR,2021,70,34,20
+Solomon Islands,SB,WPR,2022,70,34,19
+South Africa,ZA,AFR,2020,71,34,
+South Africa,ZA,AFR,2021,71,35,
+South Africa,ZA,AFR,2023,70,34,16325
+South Sudan,SS,AFR,2021,71,,
+South Sudan,SS,AFR,2022,71,,
+Suriname,SR,AMR,2020,70,34,12
+Suriname,SR,AMR,2021,70,34,12
+Suriname,SR,AMR,2022,70,34,6
+Suriname,SR,AMR,2023,70,34,11
+Sweden,SE,EUR,2020,70,,28
+Sweden,SE,EUR,2021,70,34,32
+Sweden,SE,EUR,2022,70,34,32
+Sweden,SE,EUR,2023,70,34,30
+Switzerland,CH,EUR,2020,70,34,34
+Switzerland,CH,EUR,2021,70,34,20
+Switzerland,CH,EUR,2022,70,34,33
+Switzerland,CH,EUR,2023,70,34,25
+Tajikistan,TJ,EUR,2020,71,34,
+Thailand,TH,SEA,2020,70,34,8133
+Thailand,TH,SEA,2021,70,34,6251
+Thailand,TH,SEA,2022,70,34,5918
+Thailand,TH,SEA,2023,70,34,6841
+Timor-Leste,TL,SEA,2020,71,34,
+Timor-Leste,TL,SEA,2021,71,34,
+Timor-Leste,TL,SEA,2022,71,,
+Timor-Leste,TL,SEA,2023,71,34,
+Togo,TG,AFR,2021,71,34,
+Togo,TG,AFR,2022,71,34,
+Togo,TG,AFR,2023,71,34,
+Trinidad and Tobago,TT,AMR,2020,70,34,14
+Trinidad and Tobago,TT,AMR,2021,70,34,16
+Türkiye,TR,EUR,2020,70,34,864
+Türkiye,TR,EUR,2021,70,34,552
+Türkiye,TR,EUR,2022,70,34,720
+Uganda,UG,AFR,2020,71,34,
+Uganda,UG,AFR,2021,71,34,
+Uganda,UG,AFR,2022,71,34,
+Uganda,UG,AFR,2023,71,,
+Ukraine,UA,EUR,2020,70,,2026
+Ukraine,UA,EUR,2021,70,,1317
+Ukraine,UA,EUR,2022,70,34,1453
+Ukraine,UA,EUR,2023,70,34,1753
+United Kingdom of Great Britain and Northern Ireland,GB,EUR,2020,70,,410
+United Kingdom of Great Britain and Northern Ireland,GB,EUR,2021,70,35,323
+United Kingdom of Great Britain and Northern Ireland,GB,EUR,2022,70,35,305
+United Republic of Tanzania,TZ,AFR,2020,70,,6583
+United Republic of Tanzania,TZ,AFR,2021,70,34,5689
+United Republic of Tanzania,TZ,AFR,2022,70,34,6580
+United Republic of Tanzania,TZ,AFR,2023,70,34,7408
+United States of America,US,AMR,2020,70,34,507
+United States of America,US,AMR,2021,70,34,350
+Uruguay,UY,AMR,2020,70,34,106
+Uruguay,UY,AMR,2021,70,34,60
+Uruguay,UY,AMR,2022,70,34,79
+Uzbekistan,UZ,EUR,2022,71,34,
+Venezuela (Bolivarian Republic of),VE,AMR,2020,70,34,971
+Venezuela (Bolivarian Republic of),VE,AMR,2021,70,35,813
+Venezuela (Bolivarian Republic of),VE,AMR,2022,70,35,836
+Venezuela (Bolivarian Republic of),VE,AMR,2023,70,35,836
+Viet Nam,VN,WPR,2020,70,34,7221
+Viet Nam,VN,WPR,2021,70,35,8767
+Viet Nam,VN,WPR,2022,70,34,6271
+Viet Nam,VN,WPR,2023,70,,6097
+Zambia,ZM,AFR,2020,70,,3073
+Zambia,ZM,AFR,2021,70,34,3696
+Zambia,ZM,AFR,2022,70,34,3998
+Zambia,ZM,AFR,2023,70,,4162
+Zimbabwe,ZW,AFR,2020,71,,
+Zimbabwe,ZW,AFR,2021,71,34,
+Zimbabwe,ZW,AFR,2022,71,34,
+Zimbabwe,ZW,AFR,2023,71,34,
